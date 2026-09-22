@@ -4,8 +4,8 @@ public class App {
         System.out.println("Ohjelman tekija: ");
         String tekija = "Lotta";
         System.out.println(tekija);
-        double luku1 = 3;
-        double luku2 = 6;
+        double luku1 = 5;
+        double luku2 = 2;
         System.out.println(luku1);
         System.out.println(luku2);
         System.out.println("Luku1-muuttujan arvo on: " + luku1);
